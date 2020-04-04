@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/data",
-	"version": "1.1.40",
+	"version": "1.1.41",
 	"description": "ctx-core data",
 	"main": "lib.js",
 	"module": "lib.js",
@@ -31,9 +31,9 @@
 		"access": "public"
 	},
 	"dependencies": {
-		"@ctx-core/array": "^15.5.10",
+		"@ctx-core/array": "^15.5.11",
 		"@ctx-core/combinators": "^4.2.14",
-		"@ctx-core/function": "^10.5.42"
+		"@ctx-core/function": "^11.0.0"
 	},
 	"devDependencies": {
 		"typescript": "^3.8.3"
