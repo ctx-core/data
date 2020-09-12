@@ -1,4 +1,4 @@
-import { falsy } from '@ctx-core/function';
+import type { falsy } from '@ctx-core/function';
 import { I__ } from '@ctx-core/combinators';
 export declare type h1__filter = {
     [key: string]: boolean;
