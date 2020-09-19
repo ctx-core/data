@@ -1,5 +1,13 @@
 # @ctx-core/data
 
+## 3.0.1
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/combinators@5.0.1
+  - @ctx-core/array@19.0.1
+
 ## 3.0.0
 
 ### Major Changes
