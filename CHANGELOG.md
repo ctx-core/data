@@ -1,5 +1,18 @@
 # @ctx-core/data
 
+## 3.0.0
+
+### Major Changes
+
+- Typescript strict checking
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/array@19.0.0
+  - @ctx-core/combinators@5.0.0
+  - @ctx-core/function@16.0.0
+
 ## 2.0.1
 
 ### Patch Changes
