@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/data",
-	"version": "3.0.15",
+	"version": "3.0.16",
 	"description": "ctx-core data",
 	"keywords": [
 		"ctx-core",
@@ -28,7 +28,7 @@
 		"prepublishOnly": "npm run compile"
 	},
 	"dependencies": {
-		"@ctx-core/array": "workspace:^19.0.15",
+		"@ctx-core/array": "workspace:^19.0.16",
 		"@ctx-core/combinators": "workspace:^5.0.2",
 		"@ctx-core/function": "workspace:^16.1.1"
 	},
