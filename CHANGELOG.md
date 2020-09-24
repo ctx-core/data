@@ -1,5 +1,14 @@
 # @ctx-core/data
 
+## 3.0.13
+
+### Patch Changes
+
+- default generic types
+- Updated dependencies [undefined]
+  - @ctx-core/array@19.0.13
+  - @ctx-core/function@16.1.1
+
 ## 3.0.12
 
 ### Patch Changes

@@ -4,7 +4,7 @@ import type { maybe } from '@ctx-core/function'
 /**
  * Returns a filter_h1 with the values filtered by `fn`.
  */
-export function _filter_h1<I extends object>(in_h1:maybe<I>, fn = I__):maybe<filter_h1_type> {
+export function _filter_h1<I extends object = object>(in_h1:maybe<I>, fn = I__):maybe<filter_h1_type> {
 	if (!in_h1) return
 	const h1 = in_h1 as I
 	const filter_h1 = {} as Record<string, boolean>
