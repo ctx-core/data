@@ -1,5 +1,16 @@
 # @ctx-core/data
 
+## 3.0.31
+
+### Patch Changes
+
+- using export as instead of export const
+- Updated dependencies [undefined]
+- Updated dependencies [undefined]
+- Updated dependencies [undefined]
+  - @ctx-core/array@19.1.6
+  - @ctx-core/function@16.1.5
+
 ## 3.0.30
 
 ### Patch Changes
