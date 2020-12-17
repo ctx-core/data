@@ -1,6 +1,6 @@
+import type { maybe } from '@ctx-core/function'
 import { I__ } from '@ctx-core/combinators'
 import type { filter_h1_type } from './filter_h1_type'
-import type { maybe } from '@ctx-core/function'
 /**
  * Returns a filter_h1 with the values filtered by `fn`.
  */
@@ -13,4 +13,6 @@ export function _filter_h1<I extends object = object>(in_h1:maybe<I>, fn = I__):
 	}
 	return filter_h1
 }
-export const _h1__filter = _filter_h1
+export {
+	_filter_h1 as _h1__filter
+}

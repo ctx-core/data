@@ -1,2 +1,3 @@
-export declare type filter_h1_type = Record<string, boolean>;
-export declare type h1__filter = filter_h1_type;
+export interface filter_h1_type extends Record<string, boolean> {
+}
+export { filter_h1_type as h1__filter };
