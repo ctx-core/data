@@ -1,5 +1,17 @@
 # @ctx-core/data
 
+## 3.0.38
+
+### Patch Changes
+
+- - .rush
+- Updated dependencies [undefined]
+- Updated dependencies [undefined]
+- Updated dependencies [undefined]
+  - @ctx-core/function@16.4.0
+  - @ctx-core/array@19.1.13
+  - @ctx-core/combinators@5.0.6
+
 ## 3.0.37
 
 ### Patch Changes
