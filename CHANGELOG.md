@@ -1,5 +1,14 @@
 # @ctx-core/data
 
+## 3.0.42
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+- Updated dependencies [undefined]
+  - @ctx-core/function@16.7.0
+  - @ctx-core/array@19.1.17
+
 ## 3.0.41
 
 ### Patch Changes
