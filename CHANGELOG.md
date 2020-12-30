@@ -1,5 +1,11 @@
 # @ctx-core/data
 
+## 3.0.46
+
+### Patch Changes
+
+- @ctx-core/array@19.1.21
+
 ## 3.0.45
 
 ### Patch Changes
