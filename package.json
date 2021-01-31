@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/data",
-	"version": "3.0.53",
+	"version": "4.0.0",
 	"description": "ctx-core data",
 	"keywords": [
 		"ctx-core",
@@ -17,9 +17,9 @@
 	},
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
-	"main": "./index.js",
-	"module": "./index.js",
-	"types": "./index.ts",
+	"main": "./src/index.js",
+	"module": "./src/index.js",
+	"types": "./src/index.ts",
 	"scripts": {
 		"build": "npm run clean && npm run compile",
 		"clean": "rm -f tsconfig.tsbuildinfo",
@@ -28,9 +28,9 @@
 		"prepublishOnly": "npm run compile"
 	},
 	"dependencies": {
-		"@ctx-core/array": "workspace:^19.2.5",
-		"@ctx-core/combinators": "workspace:^5.0.6",
-		"@ctx-core/function": "workspace:^16.9.1"
+		"@ctx-core/array": "workspace:^20.0.0",
+		"@ctx-core/combinators": "workspace:^6.0.0",
+		"@ctx-core/function": "workspace:^17.0.0"
 	},
 	"devDependencies": {
 		"typescript": "^4.1.3"
