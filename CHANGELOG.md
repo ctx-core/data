@@ -1,5 +1,11 @@
 # @ctx-core/data
 
+## 4.0.2
+
+### Patch Changes
+
+- fix: remove export type aliases causing build issues
+
 ## 4.0.1
 
 ### Patch Changes
