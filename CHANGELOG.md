@@ -1,5 +1,15 @@
 # @ctx-core/data
 
+## 4.0.30
+
+### Patch Changes
+
+- update dependencies
+- Updated dependencies [undefined]
+  - @ctx-core/array@20.2.5
+  - @ctx-core/combinators@6.0.10
+  - @ctx-core/function@17.4.6
+
 ## 4.0.29
 
 ### Patch Changes
