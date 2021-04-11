@@ -1,5 +1,13 @@
 # @ctx-core/data
 
+## 4.0.31
+
+### Patch Changes
+
+- @ctx-core/object: 17.5.6
+- Updated dependencies [undefined]
+  - @ctx-core/array@20.2.8
+
 ## 4.0.30
 
 ### Patch Changes
