@@ -1,5 +1,11 @@
 # @ctx-core/data
 
+## 4.0.46
+
+### Patch Changes
+
+- update dependencies
+
 ## 4.0.45
 
 ### Patch Changes
