@@ -1,5 +1,18 @@
 # @ctx-core/data
 
+## 4.1.0
+
+### Minor Changes
+
+- "noImplicitAny": true
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/array@20.3.0
+  - @ctx-core/combinators@6.1.0
+  - @ctx-core/function@17.9.0
+
 ## 4.0.50
 
 ### Patch Changes
