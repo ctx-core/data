@@ -1,5 +1,15 @@
 # @ctx-core/data
 
+## 4.1.2
+
+### Patch Changes
+
+- .npmignore: + ~
+- Updated dependencies [undefined]
+  - @ctx-core/array@20.3.2
+  - @ctx-core/combinators@6.1.2
+  - @ctx-core/function@17.9.2
+
 ## 4.1.1
 
 ### Patch Changes
