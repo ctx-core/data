@@ -1,5 +1,18 @@
 # @ctx-core/data
 
+## 4.2.0
+
+### Minor Changes
+
+- dist,types directory: addressing typescript build issues
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/array@20.4.0
+  - @ctx-core/combinators@6.2.0
+  - @ctx-core/function@17.10.0
+
 ## 4.1.3
 
 ### Patch Changes
