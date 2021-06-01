@@ -1,5 +1,11 @@
 # @ctx-core/data
 
+## 5.0.5
+
+### Patch Changes
+
+- update dependencies
+
 ## 5.0.4
 
 ### Patch Changes
