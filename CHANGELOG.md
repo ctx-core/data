@@ -1,5 +1,15 @@
 # @ctx-core/data
 
+## 5.0.13
+
+### Patch Changes
+
+- version bump: run build
+- Updated dependencies [undefined]
+  - @ctx-core/array@21.2.7
+  - @ctx-core/combinators@6.3.3
+  - @ctx-core/function@18.1.3
+
 ## 5.0.12
 
 ### Patch Changes
