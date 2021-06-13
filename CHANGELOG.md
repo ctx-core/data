@@ -1,5 +1,20 @@
 # @ctx-core/data
 
+## 5.1.1
+
+### Patch Changes
+
+- update dependencies
+
+## 5.1.0
+
+### Minor Changes
+
+- alias filter*r* from filter*h1*
+- alias filter_r_2 from filter_h_2
+- r_a_present alias from h_a_present
+- - filter_r_T
+
 ## 5.0.18
 
 ### Patch Changes
