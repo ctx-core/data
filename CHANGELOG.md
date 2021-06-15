@@ -1,5 +1,11 @@
 # @ctx-core/data
 
+## 6.0.1
+
+### Patch Changes
+
+- update dependencies
+
 ## 6.0.0
 
 ### Major Changes
