@@ -1,5 +1,15 @@
 # @ctx-core/data
 
+## 6.0.8
+
+### Patch Changes
+
+- fix: deploying \*.js files
+- Updated dependencies [undefined]
+  - @ctx-core/array@22.0.8
+  - @ctx-core/combinators@7.0.6
+  - @ctx-core/function@19.1.6
+
 ## 6.0.7
 
 ### Patch Changes
