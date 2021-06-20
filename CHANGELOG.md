@@ -1,5 +1,15 @@
 # @ctx-core/data
 
+## 6.0.6
+
+### Patch Changes
+
+- npm run prepare instead of npm run prepublishOnly
+- Updated dependencies [undefined]
+  - @ctx-core/array@22.0.6
+  - @ctx-core/combinators@7.0.4
+  - @ctx-core/function@19.1.4
+
 ## 6.0.5
 
 ### Patch Changes
