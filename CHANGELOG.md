@@ -1,5 +1,15 @@
 # @ctx-core/data
 
+## 6.0.5
+
+### Patch Changes
+
+- fix: npm run clean
+- Updated dependencies [undefined]
+  - @ctx-core/array@22.0.5
+  - @ctx-core/combinators@7.0.3
+  - @ctx-core/function@19.1.3
+
 ## 6.0.4
 
 ### Patch Changes
