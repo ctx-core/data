@@ -1,5 +1,15 @@
 # @ctx-core/data
 
+## 6.0.13
+
+### Patch Changes
+
+- dist directory
+- Updated dependencies [undefined]
+  - @ctx-core/array@22.0.16
+  - @ctx-core/combinators@7.0.9
+  - @ctx-core/function@19.1.10
+
 ## 6.0.12
 
 ### Patch Changes
