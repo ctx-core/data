@@ -1,5 +1,13 @@
 # @ctx-core/data
 
+## 6.0.15
+
+### Patch Changes
+
+- update dependencies
+- Updated dependencies [undefined]
+  - @ctx-core/array@22.1.1
+
 ## 6.0.14
 
 ### Patch Changes
