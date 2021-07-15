@@ -1,6 +1,6 @@
 import { I__ } from '@ctx-core/combinators'
-import { filter_r_ } from './filter_r_'
-import type { filter_r_T } from './filter_r_T'
+import { filter_r_ } from './filter_r_.js'
+import type { filter_r_T } from './filter_r_T.js'
 /**
  * Returns a function that calls _filter_h1 with fn
  */

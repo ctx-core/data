@@ -1,5 +1,17 @@
 # @ctx-core/data
 
+## 7.0.1
+
+### Patch Changes
+
+- 2a6971f80: fix: "type": "module"
+- fix: "type": "module"
+- Updated dependencies [2a6971f80]
+- Updated dependencies [undefined]
+  - @ctx-core/array@23.0.1
+  - @ctx-core/combinators@8.0.1
+  - @ctx-core/function@20.0.1
+
 ## 7.0.0
 
 ### Major Changes

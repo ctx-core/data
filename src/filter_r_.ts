@@ -1,5 +1,5 @@
 import { I__ } from '@ctx-core/combinators'
-import type { filter_r_T } from './filter_r_T'
+import type { filter_r_T } from './filter_r_T.js'
 /**
  * Returns a filter_h1 with the values filtered by `fn`.
  */

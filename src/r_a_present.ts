@@ -1,6 +1,6 @@
 import { a_present_ } from '@ctx-core/array'
-import { filter_r_2 } from './filter_r_2'
-import type { filter_r_T } from './filter_r_T'
+import { filter_r_2 } from './filter_r_2.js'
+import type { filter_r_T } from './filter_r_T.js'
 /**
  * Returns a filter_h where the value is a
  * boolean of whether the array has items present
