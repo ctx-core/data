@@ -1,5 +1,18 @@
 # @ctx-core/data
 
+## 7.0.0
+
+### Major Changes
+
+- "type": "module": module npm type
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/array@23.0.0
+  - @ctx-core/combinators@8.0.0
+  - @ctx-core/function@20.0.0
+
 ## 6.0.20
 
 ### Patch Changes
