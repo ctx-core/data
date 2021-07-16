@@ -1,5 +1,15 @@
 # @ctx-core/data
 
+## 7.0.8
+
+### Patch Changes
+
+- "main": "./dist/index.cjs"
+- Updated dependencies [undefined]
+  - @ctx-core/array@23.0.8
+  - @ctx-core/combinators@8.0.8
+  - @ctx-core/function@20.0.7
+
 ## 7.0.7
 
 ### Patch Changes
