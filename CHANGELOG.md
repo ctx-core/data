@@ -1,5 +1,15 @@
 # @ctx-core/data
 
+## 7.0.9
+
+### Patch Changes
+
+- fix: cjs: load as a Promise
+- Updated dependencies [undefined]
+  - @ctx-core/array@23.0.9
+  - @ctx-core/combinators@8.0.9
+  - @ctx-core/function@20.0.8
+
 ## 7.0.8
 
 ### Patch Changes
