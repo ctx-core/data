@@ -1,5 +1,15 @@
 # @ctx-core/data
 
+## 7.0.3
+
+### Patch Changes
+
+- support cjs & esm: + "exports"
+- Updated dependencies [undefined]
+  - @ctx-core/array@23.0.3
+  - @ctx-core/combinators@8.0.3
+  - @ctx-core/function@20.0.3
+
 ## 7.0.2
 
 ### Patch Changes
