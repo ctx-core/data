@@ -1,5 +1,15 @@
 # @ctx-core/data
 
+## 7.0.22
+
+### Patch Changes
+
+- typescript: ^4.4.3 -> ^4.4.4
+- Updated dependencies [undefined]
+  - @ctx-core/array@23.0.22
+  - @ctx-core/combinators@8.0.16
+  - @ctx-core/function@20.2.2
+
 ## 7.0.21
 
 ### Patch Changes
