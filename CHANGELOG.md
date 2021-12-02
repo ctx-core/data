@@ -1,5 +1,15 @@
 # @ctx-core/data
 
+## 7.0.28
+
+### Patch Changes
+
+- @swc/core: ^1.2.113 -> ^1.2.116
+- Updated dependencies
+  - @ctx-core/array@23.0.28
+  - @ctx-core/combinators@8.0.22
+  - @ctx-core/function@20.2.8
+
 ## 7.0.27
 
 ### Patch Changes
