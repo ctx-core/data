@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/data",
-	"version": "7.0.30",
+	"version": "7.0.31",
 	"description": "ctx-core data",
 	"keywords": [
 		"ctx-core",
@@ -36,9 +36,9 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/array": "workspace:^23.0.30",
+		"@ctx-core/array": "workspace:^23.0.31",
 		"@ctx-core/combinators": "workspace:^8.0.24",
-		"@ctx-core/function": "workspace:^20.2.11"
+		"@ctx-core/function": "workspace:^20.2.12"
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.52",
