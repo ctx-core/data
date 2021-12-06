@@ -1,5 +1,14 @@
 # @ctx-core/data
 
+## 7.0.32
+
+### Patch Changes
+
+- package.json: - "main": explicitly not support cjs
+- Updated dependencies
+  - @ctx-core/array@23.0.32
+  - @ctx-core/combinators@8.0.25
+
 ## 7.0.31
 
 ### Patch Changes
