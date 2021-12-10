@@ -1,5 +1,14 @@
 # @ctx-core/data
 
+## 7.0.33
+
+### Patch Changes
+
+- package.json: - module
+- Updated dependencies
+  - @ctx-core/array@23.0.33
+  - @ctx-core/combinators@8.0.26
+
 ## 7.0.32
 
 ### Patch Changes
