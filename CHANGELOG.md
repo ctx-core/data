@@ -1,5 +1,15 @@
 # @ctx-core/data
 
+## 7.0.37
+
+### Patch Changes
+
+- \*.d.ts export
+- Updated dependencies
+  - @ctx-core/array@23.0.37
+  - @ctx-core/combinators@8.0.30
+  - @ctx-core/function@20.2.16
+
 ## 7.0.36
 
 ### Patch Changes
