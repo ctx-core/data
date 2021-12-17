@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/data",
-	"version": "7.0.40",
+	"version": "7.0.41",
 	"description": "ctx-core data",
 	"keywords": [
 		"ctx-core",
@@ -18,7 +18,7 @@
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
 	"type": "module",
-	"types": "./src/index.ts",
+	"types": "./dist/index.d.ts",
 	"exports": {
 		".": {
 			"import": "./dist/index.js"
@@ -36,9 +36,9 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/array": "workspace:^23.0.40",
-		"@ctx-core/combinators": "workspace:^8.0.33",
-		"@ctx-core/function": "workspace:^20.2.19"
+		"@ctx-core/array": "workspace:^23.0.41",
+		"@ctx-core/combinators": "workspace:^8.0.34",
+		"@ctx-core/function": "workspace:^20.2.20"
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.55",
