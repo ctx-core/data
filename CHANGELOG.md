@@ -1,5 +1,15 @@
 # @ctx-core/data
 
+## 7.0.38
+
+### Patch Changes
+
+- fix: build
+- Updated dependencies
+  - @ctx-core/array@23.0.38
+  - @ctx-core/combinators@8.0.31
+  - @ctx-core/function@20.2.17
+
 ## 7.0.37
 
 ### Patch Changes
