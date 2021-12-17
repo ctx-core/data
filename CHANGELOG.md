@@ -1,5 +1,15 @@
 # @ctx-core/data
 
+## 7.0.39
+
+### Patch Changes
+
+- package.json: "types": "./src/index.ts": better editing experience
+- Updated dependencies
+  - @ctx-core/array@23.0.39
+  - @ctx-core/combinators@8.0.32
+  - @ctx-core/function@20.2.18
+
 ## 7.0.38
 
 ### Patch Changes
