@@ -1,5 +1,13 @@
 # @ctx-core/data
 
+## 7.0.42
+
+### Patch Changes
+
+- .js + .d.ts instead of .ts
+- Updated dependencies
+  - @ctx-core/function@20.2.21
+
 ## 7.0.41
 
 ### Patch Changes
