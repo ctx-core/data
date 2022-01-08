@@ -1,5 +1,15 @@
 # @ctx-core/data
 
+## 7.0.45
+
+### Patch Changes
+
+- sideEffects = false
+- Updated dependencies
+  - @ctx-core/array@23.1.4
+  - @ctx-core/combinators@8.0.37
+  - @ctx-core/function@20.2.25
+
 ## 7.0.44
 
 ### Patch Changes
