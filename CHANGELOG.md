@@ -1,5 +1,11 @@
 # @ctx-core/data
 
+## 7.0.48
+
+### Patch Changes
+
+- fix: filter_r_2: jsdoc
+
 ## 7.0.47
 
 ### Patch Changes
