@@ -1,5 +1,15 @@
 # @ctx-core/data
 
+## 7.0.50
+
+### Patch Changes
+
+- package.json: exports: update
+- Updated dependencies
+  - @ctx-core/array@26.1.3
+  - @ctx-core/combinators@8.0.38
+  - @ctx-core/function@20.6.1
+
 ## 7.0.49
 
 ### Patch Changes
