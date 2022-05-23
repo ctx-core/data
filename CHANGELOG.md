@@ -1,5 +1,11 @@
 # @ctx-core/data
 
+## 7.0.59
+
+### Patch Changes
+
+- update dependencies
+
 ## 7.0.58
 
 ### Patch Changes
