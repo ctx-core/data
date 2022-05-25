@@ -34,13 +34,13 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/array": "^26.4.2",
+		"@ctx-core/array": "^26.4.3",
 		"@ctx-core/combinators": "^8.0.38",
 		"@ctx-core/function": "^20.8.0"
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.57",
-		"@swc/core": "^1.2.189",
+		"@swc/core": "^1.2.192",
 		"rimraf": "^3.0.2",
 		"typescript": "next"
 	},
