@@ -1,5 +1,11 @@
 # @ctx-core/data
 
+## 7.0.62
+
+### Patch Changes
+
+- "@ctx-core/array": "^26.6.0"
+
 ## 7.0.61
 
 ### Patch Changes
