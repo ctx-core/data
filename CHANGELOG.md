@@ -1,5 +1,13 @@
 # @ctx-core/data
 
+## 7.0.64
+
+### Patch Changes
+
+- @ctx-core: 20.9.0
+- Updated dependencies
+  - @ctx-core/array@26.7.2
+
 ## 7.0.63
 
 ### Patch Changes
