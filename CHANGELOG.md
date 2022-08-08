@@ -1,5 +1,21 @@
 # @ctx-core/data
 
+## 7.0.68
+
+### Patch Changes
+
+- @ctx-core/function: 21.0.0
+- Updated dependencies
+  - @ctx-core/array@26.7.6
+
+## 7.0.67
+
+### Patch Changes
+
+- Updated dependencies
+  - @ctx-core/function@21.0.0
+  - @ctx-core/array@26.7.5
+
 ## 7.0.66
 
 ### Patch Changes
