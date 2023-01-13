@@ -1,5 +1,11 @@
 # @ctx-core/data
 
+## 7.0.81
+
+### Patch Changes
+
+- rimraf: ^4.0.1 -> ^4.0.4
+
 ## 7.0.80
 
 ### Patch Changes
