@@ -1,5 +1,15 @@
 # @ctx-core/data
 
+## 7.0.84
+
+### Patch Changes
+
+- tsconfig.json: - importsNotUsedAsValues
+- Updated dependencies
+  - @ctx-core/array@26.8.13
+  - @ctx-core/combinators@8.0.40
+  - @ctx-core/function@21.6.1
+
 ## 7.0.83
 
 ### Patch Changes
