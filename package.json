@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/data",
-	"version": "7.1.14",
+	"version": "7.1.15",
 	"description": "ctx-core data",
 	"keywords": [
 		"ctx-core",
@@ -34,9 +34,9 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"@ctx-core/array": "^26.11.12",
+		"@ctx-core/array": "^26.11.14",
 		"@ctx-core/combinators": "^8.0.41",
-		"@ctx-core/function": "^21.8.0"
+		"@ctx-core/function": "^21.9.0"
 	},
 	"devDependencies": {
 		"c8": "^7.13.0",
