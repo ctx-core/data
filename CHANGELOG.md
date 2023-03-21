@@ -1,5 +1,13 @@
 # @ctx-core/data
 
+## 7.1.24
+
+### Patch Changes
+
+- @ctx-core/function: ^21.12.1 -> ^21.12.2
+- Updated dependencies
+  - @ctx-core/array@26.12.1
+
 ## 7.1.23
 
 ### Patch Changes
