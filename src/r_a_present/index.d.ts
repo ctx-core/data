@@ -10,7 +10,7 @@ export declare function r_a_present<
 	} = {
 		[key:string]:Val[];
 	}
->(h:Obj):filter_r_T|undefined
+>(o:Obj):filter_r_T|undefined
 export {
 	r_a_present as h_a_present,
 	r_a_present as _h1__present__a1,
