@@ -1,5 +1,15 @@
 # @ctx-core/data
 
+## 7.1.72
+
+### Patch Changes
+
+- version bump
+- Updated dependencies
+  - @ctx-core/array@26.15.2
+  - @ctx-core/combinators@8.0.62
+  - @ctx-core/function@21.20.1
+
 ## 7.1.71
 
 ### Patch Changes
