@@ -1,5 +1,30 @@
 # @ctx-core/data
 
+## 7.2.0
+
+### Minor Changes
+
+- filter_o**: aliased by filter_r**
+- - filter_o_T: aliased by filter_r_T
+- - filter*o*: aliased by filter*r*
+- ∋ ctx-core/data
+- fix:types package.json exports
+- tsconfig:
+
+      "module": "ESNext"
+      "moduleResolution": "nodenext"
+      "target": "ESNext"
+
+- - o_a_present: aliased by r_a_present
+
+### Patch Changes
+
+- package.json: - "svelte": "./src/index.js"
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+  - ctx-core@2.1.0
+
 ## 7.1.79
 
 ### Patch Changes
