@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/data",
-	"version": "7.2.72",
+	"version": "7.2.73",
 	"description": "ctx-core data",
 	"keywords": [
 		"ctx-core",
@@ -39,7 +39,7 @@
 		"test:unit:coverage": "c8 pnpm test:unit"
 	},
 	"dependencies": {
-		"ctx-core": "^5.12.0"
+		"ctx-core": "^5.13.0"
 	},
 	"devDependencies": {
 		"c8": "^8.0.1",
