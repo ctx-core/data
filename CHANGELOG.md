@@ -1,5 +1,11 @@
 # @ctx-core/data
 
+## 7.2.205
+
+### Patch Changes
+
+- ctx-core: ^7.2.31 -> ^7.2.32
+
 ## 7.2.204
 
 ### Patch Changes
